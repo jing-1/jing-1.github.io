@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yushun Dong's Homepage"
+title                    : "Jing Yi's Homepage"
 title_separator          : "-"
-name                     : &name "Yushun Dong"
-description              : &description "Ph.D. Student @UVa"
-url                      : https://yushundong.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jing Yi"
+description              : &description "Ph.D. Student @WHU"
+url                      : https://jing-1.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yushun Dong"
-  avatar           : "Profile-2.JPG"
-  bio              : "Ph.D. Student @UVa"
-  location         : "Charlottesville, VA"
+  name             : "Jing Yi"
+  avatar           : "yijing.jpg"
+  bio              : "Ph.D. Student @WHU"
+  location         : "Wuhan University, Wuhan 430079, Hubei, China"
   employer         :
   pubmed           :
-  googlescholar    : https://scholar.google.com/citations?hl=en&user=_QUhuOMAAAAJ
-  email            : yd6eb@virginia.edu
+  googlescholar    : https://scholar.google.com/citations?user=HePeE1EAAAAJ&hl=zh-CN
+  email            : yijing-v@whu.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : yushundong
+  github           : jing-1
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : yushun-dong-2989261a5?trk=people-guest_people_search-card
+  linkedin         : 
   orcid            :
   pinterest        :
   soundcloud       :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: China/Beijing # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

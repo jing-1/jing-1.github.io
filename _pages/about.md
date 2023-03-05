@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student at the [University of Virginia](http://www.virginia.edu/), now working with [Prof. Jundong Li](http://www.ece.virginia.edu/~jl6qk/). Prior to joining in UVa, I obtained my bachelor's degree from the School of Information and Communication Engineering at [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) (BUPT), where I worked with [Prof. Yingxia Shao](https://shaoyx.github.io/) and [Prof. Wensheng Sun](https://bkso.baidu.com/item/%E5%AD%99%E6%96%87%E7%94%9F/23658543). (Last updated Aug. 2021)
+I am a third-year direct Ph.D. student at [Institute of Artificial Intelligence and Machine Vision](http://iip.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/), supervised by [Prof. Zhenzhong Chen](http://iip.whu.edu.cn/~zzchen/). Before that, I obtained my bachelor's degree from the School of Computer Science at [Wuhan University](https://www.whu.edu.cn/).
 
 Research Interests
 ---
 
-I always envision the Graph Neural Networks (GNNs) deployed in real-world applications to be socially beneficial, accountable, and reliable to people. Correspondingly, my research interests are mainly in the trustworthiness of GNNs, e.g., algorithmic fairness and interpretability. 
+I mainly work on designing algorithms that leverage deep probabilistic models, graph neural networks, and causal inference techniques to tackle data mining problems (especially recommendation systems, and multimedia analysis), such as uncertainty, multi-modal fusion, and confounders.
 
 <!-- I have abundant interest in **Graph Mining**, e.g., **Spectral Graph Theory**, **Graph Neural Networks** and corresponding interdisciplinary topics. -->
 
 <!-- My previous research experiences mainly lie in graph mining and feature fusion. -->
 
-News
+<!-- News
 ------
 * Dec. 2022: One paper accepted by SDM.
 * Nov. 2022: One paper accepted by AAAI.
@@ -30,7 +30,7 @@ News
 * July 2022: An interesting and comprehensive survey paper "Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications" released. [\[arXiv\]](https://arxiv.org/pdf/2207.11812.pdf) [\[Blog in Chinese\]](https://mp.weixin.qq.com/s/w0_DSd-hteYGfWnwKEALNQ)
 * May. 2022: Three papers accepted by SIGKDD 2022.
 * Apr. 2022: Best Poster (Runner-Up) @Doctoral Forum of SDM. Thanks for the efforts of organizers.
-* Apr. 2022: An interesting and comprehensive survey paper "Fairness in Graph Mining: A Survey" released. [\[arXiv\]](https://arxiv.org/abs/2204.09888) [\[Blog in Chinese\]](https://github.com/yushundong/Fairness-in-Graph-Mining-A-Survey)
+* Apr. 2022: An interesting and comprehensive survey paper "Fairness in Graph Mining: A Survey" released. [\[arXiv\]](https://arxiv.org/abs/2204.09888) [\[Blog in Chinese\]](https://github.com/yushundong/Fairness-in-Graph-Mining-A-Survey) -->
 <!-- * Apr. 2022: One paper accepted by IJCAI 2022. -->
 <!-- * Apr. 2022: One paper accepted by SIGIR 2022. -->
 <!-- * Jan. 2022: Two papers accepted by WWW 2022. -->
@@ -39,13 +39,13 @@ News
 <!-- * May 2021: One paper accepted by SIGKDD 2021. -->
 
 
-Experiences
+<!-- Experiences
 ------
 * Research Intern, Microsoft Research. June 2022 – Sep. 2022
-* Research Intern, Turing Inc. July 2019 – Sep. 2019
+* Research Intern, Turing Inc. July 2019 – Sep. 2019 -->
 
 
-Mentored Students
+<!-- Mentored Students
 ------
 * [Pranav Bangarbale (Undergrad in CS @UVa)](https://www.linkedin.com/in/pranav-bangarbale-42091721b/)
 * [Srimanth Tangedipalli (Undergrad in CS @UVa)](https://www.linkedin.com/in/srimanth-tangedipalli/)
@@ -53,7 +53,7 @@ Mentored Students
 * [Eric, Xuanjia Bi (Undergrad in EE & CPE @UVa)](https://www.linkedin.com/in/xuanjia-bi/)
 * [Deepaloke Chattopadhyay (M.S. @UVa, now Data Scientist @2nd Order Solutions)](https://www.linkedin.com/in/deepaloke-chattopadhyay/)
 * [Zheng Huang (M.S. @UVa, now Software Development Engineer @Amazon)](https://www.linkedin.com/in/zheng-huang-39822a1a2/)
-* Yiling Yuan (Undergrad in CS @BUPT)
+* Yiling Yuan (Undergrad in CS @BUPT) -->
 <!-- * * Edward Wei (Undergrad in CS @UVa) -->
 <!-- * Kerui Huang (Undergrad in CS @UVa) -->
 <!-- * Eric, Xuanjia Bi (Undergrad in EE & CPE @UVa) -->
@@ -65,32 +65,67 @@ Mentored Students
 <!-- * Nitin Maddi (B.S. in Computer Science @UVa) -->
 
 
-Services
-------
+<!-- Services
+------ -->
 <!-- * **Invited Program Committee Co-Chairs**: SDM 2023. -->
-* **Invited Program Committee Member**: ECMLPKDD 2023, KDD 2023, SDM 2023, CIKM 2022, SIGKDD 2022, AAAI 2022, WSDM 2022, etc.
+<!-- * **Invited Program Committee Member**: ECMLPKDD 2023, KDD 2023, SDM 2023, CIKM 2022, SIGKDD 2022, AAAI 2022, WSDM 2022, etc.
 * **Invited Reviewer & External Reviewer**:
 SIGKDD, SIGIR, ICML, WWW, ICLR, NeurIPS, TKDE, TKDD, CIKM, WSDM, ECML-PKDD, PAKDD, BigData, etc.
-* **Volunteer**: SIGKDD 2021, IJCAI 2021, SIGKDD 2020, etc.
+* **Volunteer**: SIGKDD 2021, IJCAI 2021, SIGKDD 2020, etc. -->
 
 <!-- * CIKM 2021. -->
 <!-- * **Reviewer & External Reviewer**: TKDE, TKDD, SIGKDD'21, SIGIR'21, ICML'21, PAKDD'21, WWW'21, ICLR'20, WSDM'21, BigData'20, SIGKDD'20, SIGIR'20, NeurIPS'20, WWW'20, ECML-PKDD'20, CIKM'20. -->
 
 
-Invited Talks
+<!-- Invited Talks
 ------
 * Feb. 2023, "Artificial Intelligence: What Do We Have and Where We Are Heading?" at the University of Virginia.
 * Feb. 2023, "Unlocking Ethical Graph Neural Networks" at the University of Texas Rio Grande Valley.
-* Sept. 2022, "Fairness in Graph Mining: Metrics and Algorithms" at [DEFirst Group](https://noon-cobbler-caa.notion.site/DEFirst-Reading-Group-23c288b0cdc540aea53bf7960754ba21), Université de Montreal [\[Slides\]](http://yushundong.github.io/files/Fairness_Invited_Talk.pdf).
+* Sept. 2022, "Fairness in Graph Mining: Metrics and Algorithms" at [DEFirst Group](https://noon-cobbler-caa.notion.site/DEFirst-Reading-Group-23c288b0cdc540aea53bf7960754ba21), Université de Montreal [\[Slides\]](http://yushundong.github.io/files/Fairness_Invited_Talk.pdf). -->
 <!-- * Sept. 2022, "Learning Causal Effects on Hypergraphs" at Microsoft Research.  -->
+
+Publications
+---
+## Journals
+1. Multi-modal Variational Graph Auto-encoder for Recommendation Systems [\[PDF\]](https://ieeexplore.ieee.org/document/9535249) [\[Code\]](https://github.com/jing-1/MVGAE) <br>
+**Jing Yi** and Zhenzhong <br>
+IEEE Transactions on Multimedia, vol. 24, pp. 1067-1079, 2022. 
+
+
+2. Cross-modal Variational Auto-encoder for Content-based Micro-video Background Music Recommendation [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9616385) <br>
+**Jing Yi**, Yaochen Zhu, Jiayi Xie and Zhenzhong Chen <br>
+IEEE Transactions on Multimedia, vol. 25, pp. 515-528, 2023. 
+
+3. Multi-Auxiliary Augmented Collaborative Variational Auto-encoder for Tag Recommendation [\[PDF\]](https://dl.acm.org/doi/pdf/10.1145/3578932) <br>
+**Jing Yi** , Xubin Ren, and Zhenzhong Chen <br>
+ACM Transactions on Information Systems, 2023, Just Accepted, doi: 10.1145/3578932. 
+
+
+## Conferences
+A Multimodal Variational Encoder-Decoder Framework for Micro-video Popularity Prediction [\[PDF\]](https://dl.acm.org/doi/10.1145/3366423.3380004) [\[Code\]](https://github.com/yaochenzhu/MMVED) <br>
+Jiayi Xie, Yaochen Zhu, Zhibin Zhang, Jian Peng, **Jing Yi**, Yaosi Hu, Hongyi Liu and Zhenzhong Chen <br>
+WWW 2020. 
+
+
+## Preprints
+1. Debiased Cross-modal Matching for Content-based Micro-video Background Music Recommendation [\[PDF\]](https://arxiv.org/abs/2208.03633) [\[Code\]](https://github.com/jing-1/DecCM) <br>
+**Jing Yi**  and Zhenzhong Chen <br>
+arXiv preprint arXiv:2208.03633 (**arXiv**).
+
+2. Deep Causal Reasoning for Recommendations [\[PDF\]](https://arxiv.org/abs/2201.02088) [\[Code\]](https://github.com/yaochenzhu/deep-deconf) <br>
+Yaochen Zhu, **Jing Yi**, Jiayi Xie and Zhenzhong Chen <br>
+arXiv preprint arXiv:2201.02088 (**arXiv**). 
+
 
 Honors
 ------
 <!-- * AAAI Student Fellowship 2023 -->
-* Endowed Fellowship at UVa Engineering School 2022
-* Best Poster (Runner Up) @Doctoral Forum of SIAM International Conference on Data Mining 2022 [\[Certificate\]](http://yushundong.github.io/files/BestPoster-RunnerUp.pdf)
-* McVey Fellowship at UVa Engineering School 2021
-* Student Scholarship/Travel Award of AAAI 2023, SDM 2022, WSDM 2022, TheWebConf 2021, SIGKDD 2020, etc.
+* 2nd Class Academic Scholarship at Wuhan University 2022
+* 2nd Class Academic Scholarship at Wuhan University 2021
+* 1st Class Prize of China Maker Innovation \& Entrepreneurship Contest 2020
+* 2nd Class Prize of the 17th China Graduate Mathematical Contest in Modeling of "Huawei Cup" 2020
+* 2nd Class Prize of the 18th China Graduate Mathematical Contest in Modeling of "Huawei Cup" 2021
+* China National Scholarship 2019
 <!-- * AAAI Student Scholarship 2023 -->
 <!-- * SDM Student Travel Award 2022 -->
 <!-- * WSDM Student Travel Award 2022 -->
