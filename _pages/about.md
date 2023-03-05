@@ -102,7 +102,7 @@ ACM Transactions on Information Systems, 2023, Just Accepted, doi: 10.1145/35789
 
 
 ### Conferences
-A Multimodal Variational Encoder-Decoder Framework for Micro-video Popularity Prediction [\[PDF\]](https://dl.acm.org/doi/10.1145/3366423.3380004) [\[Code\]](https://github.com/yaochenzhu/MMVED) <br>
+1. A Multimodal Variational Encoder-Decoder Framework for Micro-video Popularity Prediction [\[PDF\]](https://dl.acm.org/doi/10.1145/3366423.3380004) [\[Code\]](https://github.com/yaochenzhu/MMVED) <br>
 Jiayi Xie, Yaochen Zhu, Zhibin Zhang, Jian Peng, **Jing Yi**, Yaosi Hu, Hongyi Liu and Zhenzhong Chen <br>
 WWW 2020. 
 
