@@ -86,7 +86,7 @@ SIGKDD, SIGIR, ICML, WWW, ICLR, NeurIPS, TKDE, TKDD, CIKM, WSDM, ECML-PKDD, PAKD
 
 Publications
 ---
-## Journals
+### Journals
 1. Multi-modal Variational Graph Auto-encoder for Recommendation Systems [\[PDF\]](https://ieeexplore.ieee.org/document/9535249) [\[Code\]](https://github.com/jing-1/MVGAE) <br>
 **Jing Yi** and Zhenzhong <br>
 IEEE Transactions on Multimedia, vol. 24, pp. 1067-1079, 2022. 
@@ -101,13 +101,13 @@ IEEE Transactions on Multimedia, vol. 25, pp. 515-528, 2023.
 ACM Transactions on Information Systems, 2023, Just Accepted, doi: 10.1145/3578932. 
 
 
-## Conferences
+### Conferences
 A Multimodal Variational Encoder-Decoder Framework for Micro-video Popularity Prediction [\[PDF\]](https://dl.acm.org/doi/10.1145/3366423.3380004) [\[Code\]](https://github.com/yaochenzhu/MMVED) <br>
 Jiayi Xie, Yaochen Zhu, Zhibin Zhang, Jian Peng, **Jing Yi**, Yaosi Hu, Hongyi Liu and Zhenzhong Chen <br>
 WWW 2020. 
 
 
-## Preprints
+### Preprints
 1. Debiased Cross-modal Matching for Content-based Micro-video Background Music Recommendation [\[PDF\]](https://arxiv.org/abs/2208.03633) [\[Code\]](https://github.com/jing-1/DecCM) <br>
 **Jing Yi**  and Zhenzhong Chen <br>
 arXiv preprint arXiv:2208.03633 (**arXiv**).
@@ -122,7 +122,7 @@ Honors
 <!-- * AAAI Student Fellowship 2023 -->
 * 2nd Class Academic Scholarship at Wuhan University 2022
 * 2nd Class Academic Scholarship at Wuhan University 2021
-* 1st Class Prize of China Maker Innovation \& Entrepreneurship Contest 2020
+* 1st Class Prize of China Maker Innovation & Entrepreneurship Contest 2020
 * 2nd Class Prize of the 17th China Graduate Mathematical Contest in Modeling of "Huawei Cup" 2020
 * 2nd Class Prize of the 18th China Graduate Mathematical Contest in Modeling of "Huawei Cup" 2021
 * China National Scholarship 2019
