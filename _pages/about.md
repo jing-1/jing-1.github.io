@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year direct Ph.D. student at [Lab. of Intelligent Information Processing](http://iip.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/), supervised by [Prof. Zhenzhong Chen](http://iip.whu.edu.cn/~zzchen/). Before that, I obtained my bachelor's degree from the School of Computer Science at [Wuhan University](https://www.whu.edu.cn/).
+I am a third-year Ph.D. student at [Lab. of Intelligent Information Processing](http://iip.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/), supervised by [Prof. Zhenzhong Chen](http://iip.whu.edu.cn/~zzchen/). Before that, I obtained my bachelor's degree from the School of Computer Science at [Wuhan University](https://www.whu.edu.cn/).
 
 Research Interests
 ---
