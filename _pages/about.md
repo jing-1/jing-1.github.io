@@ -119,6 +119,7 @@ Jiayi Xie, Yaochen Zhu, Zhibin Zhang, Jian Peng, **Jing Yi**, Yaosi Hu, Hongyi L
 WWW 2020. 
 
 Services
+---
 2020.07-2020.08    Program Volunteer - 3rd IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR).
 
 Honors
