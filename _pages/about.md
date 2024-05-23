@@ -115,11 +115,15 @@ ACM Transactions on Information Systems, vol. 41, no. 4, pp. 1-25, 2023.
 **Jing Yi**  and Zhenzhong Chen <br>
 ACM Transactions on Intelligent Systems and Technology, vol. 15, no. 3, pp. 1-25, 2024.
 
-5. Deep Causal Reasoning for Recommendations [\[PDF\]](https://dl.acm.org/doi/abs/10.1145/3653985) [\[Code\]](https://github.com/yaochenzhu/deep-deconf) <br>
+5. Variational Mixture of Stochastic Experts Auto-encoder for Multi-modal Recommendation [\[PDF\]](https://ieeexplore.ieee.org/abstract/document/10487870/) <br>
+**Jing Yi**  and Zhenzhong Chen <br>
+IEEE Transactions on Multimedia, 2024, Just Accepted, doi: 10.1109/TMM.2024.3384058.
+
+6. Deep Causal Reasoning for Recommendations [\[PDF\]](https://dl.acm.org/doi/abs/10.1145/3653985) [\[Code\]](https://github.com/yaochenzhu/deep-deconf) <br>
 Yaochen Zhu, **Jing Yi**, Jiayi Xie and Zhenzhong Chen <br>
 ACM Transactions on Intelligent Systems and Technology, 2024, Just Accepted, doi: 10.1145/3578932.
 
-6. Meta-path aware dynamic graph learning for friend recommendation with user mobility,
+7. Meta-path aware dynamic graph learning for friend recommendation with user mobility,
 Information Sciences [\[PDF\]](https://doi.org/10.1016/j.ins.2024.120448) <br>
 Ding Ding, **Jing Yi**, Jiayi Xie, Zhenzhong Chen <br>
 Information Sciences, vol. 666, pp. 120448, 2024.
