@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student at [Lab. of Intelligent Information Processing](http://iip.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/), supervised by [Prof. Zhenzhong Chen](http://iip.whu.edu.cn/~zzchen/). Before that, I obtained my bachelor's degree from the School of Computer Science at [Wuhan University](https://www.whu.edu.cn/).
+I am a Ph.D. student (2020-) at [Lab. of Intelligent Information Processing](http://iip.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/), supervised by [Prof. Zhenzhong Chen](http://iip.whu.edu.cn/~zzchen/). Before that, I obtained my bachelor's degree from the School of Computer Science at [Wuhan University](https://www.whu.edu.cn/).
 
 Research Interests
 ---
@@ -98,34 +98,37 @@ IEEE Transactions on Multimedia, vol. 25, pp. 515-528, 2023.
 
 3. Multi-Auxiliary Augmented Collaborative Variational Auto-encoder for Tag Recommendation [\[PDF\]](https://dl.acm.org/doi/pdf/10.1145/3578932) <br>
 **Jing Yi** , Xubin Ren, and Zhenzhong Chen <br>
-ACM Transactions on Information Systems, 2023, Just Accepted, doi: 10.1145/3578932. 
+ACM Transactions on Information Systems, vol. 41, no. 4, pp. 1-25, 2023. 
 
+4. Deconfounded Cross-modal Matching for Content-based Micro-video Background Music Recommendation [\[PDF\]](https://dl.acm.org/doi/10.1145/3650042) [\[Code\]](https://github.com/jing-1/DecCM) <br>
+**Jing Yi**  and Zhenzhong Chen <br>
+ACM Transactions on Intelligent Systems and Technology, vol. 15, no. 3, pp. 1-25, 2024.
+
+5. Deep Causal Reasoning for Recommendations [\[PDF\]](https://dl.acm.org/doi/abs/10.1145/3653985) [\[Code\]](https://github.com/yaochenzhu/deep-deconf) <br>
+Yaochen Zhu, **Jing Yi**, Jiayi Xie and Zhenzhong Chen <br>
+ACM Transactions on Intelligent Systems and Technology, 2024, Just Accepted, doi: 10.1145/3578932.
+
+6. Meta-path aware dynamic graph learning for friend recommendation with user mobility,
+Information Sciences [\[PDF\]](https://doi.org/10.1016/j.ins.2024.120448) <br>
+Ding Ding, **Jing Yi**, Jiayi Xie, Zhenzhong Chen <br>
+Information Sciences, vol. 666, pp. 120448, 2024.
 
 ### Conferences
 1. A Multimodal Variational Encoder-Decoder Framework for Micro-video Popularity Prediction [\[PDF\]](https://dl.acm.org/doi/10.1145/3366423.3380004) [\[Code\]](https://github.com/yaochenzhu/MMVED) <br>
 Jiayi Xie, Yaochen Zhu, Zhibin Zhang, Jian Peng, **Jing Yi**, Yaosi Hu, Hongyi Liu and Zhenzhong Chen <br>
 WWW 2020. 
 
-
-### Preprints
-1. Debiased Cross-modal Matching for Content-based Micro-video Background Music Recommendation [\[PDF\]](https://arxiv.org/abs/2208.03633) [\[Code\]](https://github.com/jing-1/DecCM) <br>
-**Jing Yi**  and Zhenzhong Chen <br>
-arXiv preprint arXiv:2208.03633 (**arXiv**).
-
-2. Deep Causal Reasoning for Recommendations [\[PDF\]](https://arxiv.org/abs/2201.02088) [\[Code\]](https://github.com/yaochenzhu/deep-deconf) <br>
-Yaochen Zhu, **Jing Yi**, Jiayi Xie and Zhenzhong Chen <br>
-arXiv preprint arXiv:2201.02088 (**arXiv**). 
-
+Services
+2020.07-2020.08    Program Volunteer - 3rd IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR).
 
 Honors
 ------
 <!-- * AAAI Student Fellowship 2023 -->
-* 2nd Class Academic Scholarship at Wuhan University 2022
-* 2nd Class Academic Scholarship at Wuhan University 2021
-* 1st Class Prize of China Maker Innovation & Entrepreneurship Contest 2020
-* 2nd Class Prize of the 17th China Graduate Mathematical Contest in Modeling of "Huawei Cup" 2020
-* 2nd Class Prize of the 18th China Graduate Mathematical Contest in Modeling of "Huawei Cup" 2021
+* 2nd Class Academic Scholarship at Wuhan University 2021, 2022, 2023
+* 1st Prize of China Maker Innovation & Entrepreneurship Contest 2020 (“创客中国”人工智能中小企业创新创业大赛全国一等奖)
+* 2nd Prize of the China Graduate Mathematical Contest in Modeling of "Huawei Cup" 2020,2021 (“华为杯”中国研究生数学建模竞赛全国二等奖)
 * China National Scholarship 2019
+* 1st Prize of the National Undergraduate IOT Design Contest of "Huawei Cup" 2019 (全国大学生物联网设计竞赛全国一等奖)
 <!-- * AAAI Student Scholarship 2023 -->
 <!-- * SDM Student Travel Award 2022 -->
 <!-- * WSDM Student Travel Award 2022 -->
