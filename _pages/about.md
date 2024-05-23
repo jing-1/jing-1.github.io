@@ -86,13 +86,13 @@ SIGKDD, SIGIR, ICML, WWW, ICLR, NeurIPS, TKDE, TKDD, CIKM, WSDM, ECML-PKDD, PAKD
 
 Education
 ---
-* 2023.10-Present &ensp   Visiting Ph.D. Student, School of Computer Science and Engineering, Nanyang Technological University, Singapore. <br>
+* Visiting Ph.D. Student, School of Computer Science and Engineering, Nanyang Technological University, Singapore, 2023.10-Present <br>
 Supervisor: [Prof. Yonggang Wen](https://personal.ntu.edu.sg/ygwen/)
 
-* 2020.09-Present &ensp   Ph.D. Student in the School of Computer Science, Wuhan University.<br>
+* Ph.D. Student in the School of Computer Science, Wuhan University, 2020.09-Present<br>
 Supervisor: [Prof. Zhenzhong Chen](http://iip.whu.edu.cn/~zzchen/)
 
-* 2016.09-2020.06 &ensp   B.Eng. in the School of Computer Science, Wuhan University.
+* B.Eng. in the School of Computer Science, Wuhan University, 2016.09-2020.06.
 
 
 Publications
@@ -131,16 +131,16 @@ WWW 2020.
 
 Services
 ---
-* 2020.07-2020.08  &ensp  Program Volunteer - 3rd IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR).
+* Program Volunteer - 3rd IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR), 2020.07-2020.08.
 
 Honors
 ------
 <!-- * AAAI Student Fellowship 2023 -->
-* 2nd Class Academic Scholarship at Wuhan University 2021, 2022, 2023
-* 1st Prize of China Maker Innovation & Entrepreneurship Contest 2020 (“创客中国”人工智能中小企业创新创业大赛全国一等奖)
-* 2nd Prize of the China Graduate Mathematical Contest in Modeling of "Huawei Cup" 2020,2021 (“华为杯”中国研究生数学建模竞赛全国二等奖)
-* China National Scholarship 2019
-* 1st Prize of the National Undergraduate IOT Design Contest of "Huawei Cup" 2019 (全国大学生物联网设计竞赛全国一等奖)
+* 2nd Class Academic Scholarship at Wuhan University, 2021, 2022, 2023
+* 1st Prize of China Maker Innovation & Entrepreneurship Contest, 2020 (“创客中国”人工智能中小企业创新创业大赛全国一等奖)
+* 2nd Prize of the China Graduate Mathematical Contest in Modeling of "Huawei Cup", 2020,2021 (“华为杯”中国研究生数学建模竞赛全国二等奖)
+* China National Scholarship, 2019
+* 1st Prize of the National Undergraduate IOT Design Contest of "Huawei Cup", 2019 (全国大学生物联网设计竞赛全国一等奖)
 <!-- * AAAI Student Scholarship 2023 -->
 <!-- * SDM Student Travel Award 2022 -->
 <!-- * WSDM Student Travel Award 2022 -->
