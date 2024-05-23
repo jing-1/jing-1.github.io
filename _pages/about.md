@@ -86,13 +86,13 @@ SIGKDD, SIGIR, ICML, WWW, ICLR, NeurIPS, TKDE, TKDD, CIKM, WSDM, ECML-PKDD, PAKD
 
 Education
 ---
-* 2023.10-Present    Visiting Ph.D. Student, School of Computer Science and Engineering, Nanyang Technological University, Singapore. <br>
+* 2023.10-Present &ensp   Visiting Ph.D. Student, School of Computer Science and Engineering, Nanyang Technological University, Singapore. <br>
 Supervisor: [Prof. Yonggang Wen](https://personal.ntu.edu.sg/ygwen/)
 
-* 2020.09-Present    Ph.D. Student in the School of Computer Science, Wuhan University.<br>
+* 2020.09-Present &ensp   Ph.D. Student in the School of Computer Science, Wuhan University.<br>
 Supervisor: [Prof. Zhenzhong Chen](http://iip.whu.edu.cn/~zzchen/)
 
-* 2016.09-2020.06    B.Eng. in the School of Computer Science, Wuhan University.
+* 2016.09-2020.06 &ensp   B.Eng. in the School of Computer Science, Wuhan University.
 
 
 Publications
@@ -131,7 +131,7 @@ WWW 2020.
 
 Services
 ---
-* 2020.07-2020.08    Program Volunteer - 3rd IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR).
+* 2020.07-2020.08  &ensp  Program Volunteer - 3rd IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR).
 
 Honors
 ------
