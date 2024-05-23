@@ -84,6 +84,17 @@ SIGKDD, SIGIR, ICML, WWW, ICLR, NeurIPS, TKDE, TKDD, CIKM, WSDM, ECML-PKDD, PAKD
 * Sept. 2022, "Fairness in Graph Mining: Metrics and Algorithms" at [DEFirst Group](https://noon-cobbler-caa.notion.site/DEFirst-Reading-Group-23c288b0cdc540aea53bf7960754ba21), Université de Montreal [\[Slides\]](http://yushundong.github.io/files/Fairness_Invited_Talk.pdf). -->
 <!-- * Sept. 2022, "Learning Causal Effects on Hypergraphs" at Microsoft Research.  -->
 
+Education
+---
+* 2023.10-Present    Visiting Ph.D. Student, School of Computer Science and Engineering, Nanyang Technological University, Singapore. <br>
+Supervisor: [Prof. Yonggang Wen](https://personal.ntu.edu.sg/ygwen/)
+
+* 2020.09-Present    Ph.D. Student in the School of Computer Science, Wuhan University.<br>
+Supervisor: [Prof. Zhenzhong Chen](http://iip.whu.edu.cn/~zzchen/)
+
+* 2016.09-2020.06    B.Eng. in the School of Computer Science, Wuhan University.
+
+
 Publications
 ---
 ### Journals
